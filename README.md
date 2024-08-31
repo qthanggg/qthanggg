@@ -1,10 +1,9 @@
-![MasterHead](https://icons.veryicon.com/png/o/miscellaneous/20-classification-function-icon/8_3-front-end-development-1.png)
 
 <h1 align="center">Hi 👋, I'm Thang</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qhthanggg&label=Profile%20views&color=0e75b6&style=flat" alt="qhthanggg" /> </p>
-<img align="right" alt="Coding" width="300" src="https://img.freepik.com/premium-photo/ai-developers-work_1275912-63997.jpg?w=826">
+
 
 - 🌱 I’m currently learning **React Native, C#**
 
