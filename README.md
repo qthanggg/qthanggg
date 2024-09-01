@@ -1,96 +1,62 @@
+# Hi there, I'm [Your Name]! 👋
 
-<h1 align="center">Hi 👋, I'm Thang</h1>
+Welcome to my GitHub profile! I'm a passionate developer who loves to work on diverse technologies and build amazing projects. Here's a little bit about me:
 
+## 🚀 Technologies & Tools I Use
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qhthanggg&label=Profile%20views&color=0e75b6&style=flat" alt="qhthanggg" /> </p>
+- **Frontend:** 
+  - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+  - ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=white)
+  - ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+  - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+  - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+  - ![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?style=flat&logo=bulma&logoColor=white)
+  - ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-- 🌱 I’m currently learning **React Native, C#**
+- **Backend & Databases:**
+  - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+  - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+  - ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+  - ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+  - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  - ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+  - ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+  - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+  - ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+  - ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 
-- 📫 How to reach me **quocthang2603@gmail.com**
+- **DevOps & Tools:**
+  - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+  - ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/profile.php?id=100004544176326" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pham" height="30" width="40" /></a>
-<a href="https://instagram.com/quocthang62zz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="quocthang62zz" height="30" width="40" /></a>
+## 📊 GitHub Stats
 
-</p>
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" style="margin-right:10px;"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="margin-right:10px;"/> 
-  </a> 
-  <a href="https://bulma.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40" style="margin-right:10px;"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="margin-right:10px;"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin-right:10px;"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="margin-right:10px;"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="margin-right:10px;"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" style="margin-right:10px;"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-right:10px;"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin-right:10px;"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin-right:10px;"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right:10px;"/> 
-  </a> 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" style="margin-right:10px;"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="margin-right:10px;"/> 
-  </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" style="margin-right:10px;"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-right:10px;"/> 
-  </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" style="margin-right:10px;"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="margin-right:10px;"/> 
-  </a> 
-  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40" style="margin-right:10px;"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin-right:10px;"/> 
-  </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" style="margin-right:10px;"/> 
-  </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" style="margin-right:10px;"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="margin-right:10px;"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin-right:10px;"/> 
-  </a> 
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
+## 📝 Recent Projects
 
+- **[Project 1](https://github.com/yourusername/project1):** NongdanOnline - Building an Online Platform for Animal Husbandry
 
+  **Technologies Used:**
 
+  - **Frontend:** React, Tailwind CSS
+  - **Backend:** C#
+  - **Database:** MySQL, Firebase
+  - **DevOps:** Docker, Git
+  - **Others:** RabbitMQ for messaging, Postman for API testing
+
+---
+
+## 📫 How to reach me
+
+- [Email](mailto:quocthang2603@gmail.com)
+
+---
+
+⭐️ From [Your Name](https://github.com/qthanggg)
