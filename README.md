@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thang</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate developer who loves to work on diverse technologies and build amazing projects. Here's a little bit about me</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qthanggg&label=Profile%20views&color=0e75b6&style=flat" alt="qthanggg" /> </p>
 
 - 🌱 I’m currently learning **C#**
