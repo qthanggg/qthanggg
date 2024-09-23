@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qthanggg&label=Profile%20views&color=0e75b6&style=flat" alt="qthanggg" /> </p>
 
-- 🌱 I’m currently learning **C#**
 
 - 📫 How to reach me **quocthang2603@gmail.com**
 
