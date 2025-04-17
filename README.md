@@ -15,7 +15,7 @@ Focused on React, TypeScript, and modern web stacks.
 
 ### 🔗 Connect
 
-[LinkedIn](https://linkedin.com/in/quocthang2603) • [Email](quocthang2603@gmail.com)
+[LinkedIn](https://linkedin.com/in/thangpham2603) • [Email](quocthang2603@gmail.com)
 
 <!-- Optional typing animation -->
 <!--
