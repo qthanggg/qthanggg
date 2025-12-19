@@ -15,8 +15,4 @@ Focused on **React**, **TypeScript**, and modern web stacks.
 
 
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00BFA6&center=true&vCenter=true&width=480&lines=Clean+Code.;Creative+UI.;Scalable+Frontend.;Continuous+Growth.🌱" 
-    alt="Typing SVG" 
-  />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Clean+Code+%E2%80%A2+Creative+UI+%E2%80%A2+Scalable+Frontend+%E2%80%A2+Continuous+Growth)](https://git.io/typing-svg)
