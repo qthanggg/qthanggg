@@ -11,7 +11,7 @@ Focused on **React**, **TypeScript**, and modern web stacks.
  ## 🔗 Connect with me
 
 - 💼 LinkedIn: https://linkedin.com/in/thangpham2603
-- 🌐 Portfolio: https://thang-pham.vercel.app/
+
 
 
 
