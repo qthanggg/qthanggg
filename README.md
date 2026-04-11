@@ -7,10 +7,9 @@ Focused on **React**, **TypeScript**, and modern web stacks.
 - 🌱 Actively improving Full-stack skills
 - 💼 Open to Frontend / Web Developer opportunities
 
- 
- ## 🔗 Connect with me
 
-- 💼 LinkedIn: https://linkedin.com/in/thangpham2603
+
+
 
 
 
